@@ -29,7 +29,7 @@
 Destop view: <br> <br>
 # New Game when browser Loaded 
 ![image](https://user-images.githubusercontent.com/63772127/167280428-5e589879-a2a6-434a-917a-f9c9ba6dd2c1.png) <br> <br>
-# Shows no of turns to reveal all Cards Correctly
+# Shows no of turns taken by user to reveal all Cards Correctly
 ![image](https://user-images.githubusercontent.com/63772127/167280473-a0df79de-b506-4853-a15f-125318b510ea.png) <br>
 
 # Status : 
